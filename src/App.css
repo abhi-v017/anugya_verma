@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+.bgimg{
+    background: url("src/assets/portimg.jpg");
+    background-repeat: no-repeat;
+}
+nav{
+    font-family: "PT Serif", serif;
+}
+.fontstyle1{
+    font-size: 2rem;
+    font-weight: lighter;
+}
+.fontstyle2{
+    font-size: 3rem;
+    font-weight: bolder;
+}
